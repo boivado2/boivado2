@@ -1,4 +1,4 @@
-### Hi there 👋 JOHN AYEBAMONDIAFERE GODWIN
+### Hi there 👋 I'M JOHN AYEBAMONDIAFERE GODWIN
 
 ![my image](2mb.jpg)
 
