@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 JOHN AYEBAMONDIAFERE GODWIN
+
+![my image](2mb.jpg)
+
+-   🔭 I’m currently working on alot of things
+-   🌱 I’m currently learning react.js
+-   💬 Ask me about anything i gladly help
+-   ⚡ Fun fact: I hate dancing
+
+---
 
 <!--
 **boivado2/boivado2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## JOHN AYEBAMONDIAFERE GODWIN
