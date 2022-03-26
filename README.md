@@ -1,6 +1,5 @@
 ### Hi there 👋 I'M JOHN AYEBAMONDIAFERE GODWIN
 
-![my image](2mb.jpg)
 
 -   🔭 I’m currently working on alot of things
 -   🌱 I’m currently learning react.js
